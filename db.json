@@ -27,6 +27,20 @@
       "author": "tanveerr",
       "createdAt": "2020-07-19T15:48:38.607Z",
       "id": 3
+    },
+    {
+      "title": "Let's Party",
+      "content": "All of you invited for the party after the vaccine of Covid 19.. 😀",
+      "author": "Peace1978",
+      "createdAt": "2020-07-19T16:33:42.017Z",
+      "id": 4
+    },
+    {
+      "title": "Let's Party",
+      "content": "All of you invited for the party after the vaccine of Covid 19.. 😀",
+      "author": "Peace1978",
+      "createdAt": "2020-07-19T16:33:44.838Z",
+      "id": 5
     }
   ],
   "users": [
@@ -44,8 +58,10 @@
         "tanveerr"
       ],
       "following": [
-        "ashwini",
-        "RdJr"
+        "RdJr",
+        "tanveerr",
+        "ashwini18",
+        "Karnan"
       ],
       "posts": [
         {
@@ -67,7 +83,6 @@
       "gender": "female",
       "status": "married",
       "followers": [
-        "arvindh",
         "ashwini18"
       ],
       "following": [],
@@ -116,7 +131,8 @@
         }
       ],
       "followers": [
-        "DEC"
+        "DEC",
+        "arvindh"
       ],
       "following": [
         "ashwini",
@@ -134,7 +150,8 @@
       "password": "facebooklite",
       "posts": [],
       "followers": [
-        "tanveerr"
+        "tanveerr",
+        "arvindh"
       ],
       "following": [
         "arvindh"
@@ -173,13 +190,43 @@
           "id": 3
         }
       ],
-      "followers": [],
+      "followers": [
+        "arvindh"
+      ],
       "following": [
         "Karnan",
         "arvindh",
         "RdJr"
       ],
       "id": 6
+    },
+    {
+      "firstName": "Peace",
+      "lastName": "Lily",
+      "userHandle": "Peace1978",
+      "emailID": "peace.lily1978@gmail.com",
+      "gender": "female",
+      "status": "Maried",
+      "password": "peace2003",
+      "posts": [
+        {
+          "title": "Let's Party",
+          "content": "All of you invited for the party after the vaccine of Covid 19.. 😀",
+          "author": "Peace1978",
+          "createdAt": "2020-07-19T16:33:42.017Z",
+          "id": 4
+        },
+        {
+          "title": "Let's Party",
+          "content": "All of you invited for the party after the vaccine of Covid 19.. 😀",
+          "author": "Peace1978",
+          "createdAt": "2020-07-19T16:33:44.838Z",
+          "id": 5
+        }
+      ],
+      "followers": [],
+      "following": [],
+      "id": 7
     }
   ]
 }
