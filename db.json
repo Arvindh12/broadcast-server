@@ -13,6 +13,20 @@
       "author": "RdJr",
       "createdAt": "2020-07-18T02:14:03.311Z",
       "id": 1
+    },
+    {
+      "title": "sunday evening",
+      "content": "3 months lockdown has changed my life completely. i started to find happiness in small things. i started to appreciate my life to a great extent",
+      "author": "ashwini18",
+      "createdAt": "2020-07-19T15:34:08.659Z",
+      "id": 2
+    },
+    {
+      "title": "Our next Mark Zuckerburg ",
+      "content": "Arvindh has a revolutionary social app that will destroy whatsapp and instagram if properly developed. ",
+      "author": "tanveerr",
+      "createdAt": "2020-07-19T15:48:38.607Z",
+      "id": 3
     }
   ],
   "users": [
@@ -25,7 +39,10 @@
       "password": "1234",
       "gender": "male",
       "status": "single",
-      "followers": [],
+      "followers": [
+        "Karnan",
+        "tanveerr"
+      ],
       "following": [
         "ashwini",
         "RdJr"
@@ -50,7 +67,8 @@
       "gender": "female",
       "status": "married",
       "followers": [
-        "arvindh"
+        "arvindh",
+        "ashwini18"
       ],
       "following": [],
       "posts": []
@@ -73,10 +91,95 @@
         }
       ],
       "followers": [
-        "arvindh"
+        "arvindh",
+        "ashwini18",
+        "tanveerr"
       ],
       "following": [],
       "id": 2
+    },
+    {
+      "firstName": "ashwini",
+      "lastName": "ashok kumar",
+      "userHandle": "ashwini18",
+      "emailID": "ashwinirmdit@gmail.com",
+      "gender": "female",
+      "status": "Maried",
+      "password": "roshan20",
+      "posts": [
+        {
+          "title": "sunday evening",
+          "content": "3 months lockdown has changed my life completely. i started to find happiness in small things. i started to appreciate my life to a great extent",
+          "author": "ashwini18",
+          "createdAt": "2020-07-19T15:34:08.659Z",
+          "id": 2
+        }
+      ],
+      "followers": [
+        "DEC"
+      ],
+      "following": [
+        "ashwini",
+        "RdJr"
+      ],
+      "id": 3
+    },
+    {
+      "firstName": "KARNAN",
+      "lastName": "RAVICHANDRAN",
+      "userHandle": "Karnan",
+      "emailID": "karnanravichandran@gmail.com",
+      "gender": "male",
+      "status": "Single",
+      "password": "facebooklite",
+      "posts": [],
+      "followers": [
+        "tanveerr"
+      ],
+      "following": [
+        "arvindh"
+      ],
+      "id": 4
+    },
+    {
+      "firstName": "ASHOK",
+      "lastName": "Kumar",
+      "userHandle": "DEC",
+      "emailID": "ashokkumar@gmail.com",
+      "gender": "male",
+      "status": "Maried",
+      "password": "12345",
+      "posts": [],
+      "followers": [],
+      "following": [
+        "ashwini18"
+      ],
+      "id": 5
+    },
+    {
+      "firstName": "Tanveerr Ahamed",
+      "lastName": "T A",
+      "userHandle": "tanveerr",
+      "emailID": "tanveerrahamed@gmail.com",
+      "gender": "male",
+      "status": "Single",
+      "password": "qwerty1234",
+      "posts": [
+        {
+          "title": "Our next Mark Zuckerburg ",
+          "content": "Arvindh has a revolutionary social app that will destroy whatsapp and instagram if properly developed. ",
+          "author": "tanveerr",
+          "createdAt": "2020-07-19T15:48:38.607Z",
+          "id": 3
+        }
+      ],
+      "followers": [],
+      "following": [
+        "Karnan",
+        "arvindh",
+        "RdJr"
+      ],
+      "id": 6
     }
   ]
 }
