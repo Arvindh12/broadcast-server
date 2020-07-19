@@ -1,25 +1,82 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "author" : "arvindh",
-      "title": "First post!",
-      "content" : "My first content!"
+      "title": "My first post in broadcast",
+      "content": "Its an excisting new day in chennai.",
+      "author": "arvindh",
+      "createdAt": "2020-07-19T02:14:03.311Z",
+      "id": 0
+    },
+    {
+      "title": "Love You 3000",
+      "content": "Its good here in soul world.",
+      "author": "RdJr",
+      "createdAt": "2020-07-18T02:14:03.311Z",
+      "id": 1
     }
   ],
-  "users" : [
+  "users": [
     {
-      "id" : 0,
-      "firstName" : "Arvindh",
-      "lastName" : "Ashok",
-      "userHandle" : "arvindh",
-      "emailID" : "arvindh@gmail.com",
-      "password" : "1234",
-      "gender" : "male",
-      "status" : "single",
-      "followers" : [],
-      "following" : [],
-      "posts" : []
+      "id": 0,
+      "firstName": "Arvindh",
+      "lastName": "Ashok",
+      "userHandle": "arvindh",
+      "emailID": "arvindh@gmail.com",
+      "password": "1234",
+      "gender": "male",
+      "status": "single",
+      "followers": [],
+      "following": [
+        "ashwini",
+        "RdJr"
+      ],
+      "posts": [
+        {
+          "title": "My first post in broadcast",
+          "content": "Its an excisting new day in chennai.",
+          "author": "arvindh",
+          "createdAt": "2020-07-19T02:14:03.311Z",
+          "id": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "firstName": "Ashwini",
+      "lastName": "Ashok",
+      "userHandle": "ashwini",
+      "emailID": "ashwini@gmail.com",
+      "password": "1234",
+      "gender": "female",
+      "status": "married",
+      "followers": [
+        "arvindh"
+      ],
+      "following": [],
+      "posts": []
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Downey",
+      "userHandle": "RdJr",
+      "emailID": "robert@gmail.com",
+      "gender": "male",
+      "status": "Maried",
+      "password": "1234",
+      "posts": [
+        {
+          "title": "Love You 3000",
+          "content": "Its good here in soul world.",
+          "author": "RdJr",
+          "createdAt": "2020-07-19T02:14:03.311Z",
+          "id": 1
+        }
+      ],
+      "followers": [
+        "arvindh"
+      ],
+      "following": [],
+      "id": 2
     }
   ]
 }
