@@ -34,13 +34,6 @@
       "author": "Peace1978",
       "createdAt": "2020-07-19T16:33:42.017Z",
       "id": 4
-    },
-    {
-      "title": "Let's Party",
-      "content": "All of you invited for the party after the vaccine of Covid 19.. 😀",
-      "author": "Peace1978",
-      "createdAt": "2020-07-19T16:33:44.838Z",
-      "id": 5
     }
   ],
   "users": [
@@ -215,13 +208,6 @@
           "author": "Peace1978",
           "createdAt": "2020-07-19T16:33:42.017Z",
           "id": 4
-        },
-        {
-          "title": "Let's Party",
-          "content": "All of you invited for the party after the vaccine of Covid 19.. 😀",
-          "author": "Peace1978",
-          "createdAt": "2020-07-19T16:33:44.838Z",
-          "id": 5
         }
       ],
       "followers": [],
