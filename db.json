@@ -22,18 +22,11 @@
       "id": 2
     },
     {
-      "title": "Our next Mark Zuckerburg ",
-      "content": "Arvindh has a revolutionary social app that will destroy whatsapp and instagram if properly developed. ",
-      "author": "tanveerr",
-      "createdAt": "2020-07-19T15:48:38.607Z",
-      "id": 3
-    },
-    {
       "title": "Let's Party",
       "content": "All of you invited for the party after the vaccine of Covid 19... 😀",
       "author": "Peace1978",
       "createdAt": "2020-07-19T16:33:42.017Z",
-      "id": 4
+      "id": 3
     }
   ],
   "users": [
@@ -175,13 +168,6 @@
       "status": "Single",
       "password": "qwerty1234",
       "posts": [
-        {
-          "title": "Our next Mark Zuckerburg ",
-          "content": "Arvindh has a revolutionary social app that will destroy whatsapp and instagram if properly developed. ",
-          "author": "tanveerr",
-          "createdAt": "2020-07-19T15:48:38.607Z",
-          "id": 3
-        }
       ],
       "followers": [
         "arvindh"
@@ -207,7 +193,7 @@
           "content": "All of you invited for the party after the vaccine of Covid 19.. 😀",
           "author": "Peace1978",
           "createdAt": "2020-07-19T16:33:42.017Z",
-          "id": 4
+          "id": 3
         }
       ],
       "followers": [],
